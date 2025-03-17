@@ -1,0 +1,35 @@
+body
+
+#centro{
+text-align: center;
+justify-content:center ;
+align-items: center;
+}
+
+
+#cadastro{
+justify-content: center;
+align-items: center;
+border-radius: 8% ;
+height: 70%;
+width: 30%;
+background-color: rgba(255, 28, 28, 0.836);
+margin-top: 6%;
+}
+
+#cadastro2{
+    justify-content: center;
+    align-items: center;
+    border-radius: 8% ;
+    height: 50%;
+    width: 30%;
+    background-color: rgba(28, 255, 179, 0.836);
+    margin-top: 6%;
+    }
+    
+    
+#vendas{
+text-align: center ;
+
+}
+
